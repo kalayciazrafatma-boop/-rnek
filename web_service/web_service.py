@@ -5,7 +5,7 @@ import requests
 app=Flask(__name__)
 
 
-API_URL=""
+API_URL="https://rnek-1.onrender.com"
 
 HTML="""
 <!doctype html>
